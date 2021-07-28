@@ -21,6 +21,5 @@ Keras is a high-level neural network API focused on user friendliness, fast prot
 This is a 5 layers Sequential Convolutional Neural Network for digits recognition trained on MNIST dataset. I chose to build it with keras API (Tensorflow backend) which is very intuitive. 
 
 ## Accuracy
-It achieved 99.51% of accuracy with this CNN trained on a GPU, which took me about a minute. If you dont have a GPU powered machine it might take a little longer, you can try reducing the epochs (steps) to reduce computation.
-
+It achieved 99.51% of accuracy with this CNN trained on a GPU, which took me about a minute. 
 It achieved 98.15% of accuracy on test set of this CNN model trained on GPU.
